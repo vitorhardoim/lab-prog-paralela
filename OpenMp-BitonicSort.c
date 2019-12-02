@@ -92,7 +92,7 @@ void bitonicSequenceGenerator(int startIndex, int lastIndex, int *array) // Cria
 
 int main()
 {
-    int size = 4096;
+    int size = 1024;
     int array[size];
     srand(time(NULL));
     //gera o vetor aleatório
